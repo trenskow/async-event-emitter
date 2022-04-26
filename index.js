@@ -34,9 +34,9 @@ export default class EventEmitter {
 	}
 
 	async emit(event, ...args) {
-		await parallel(this._listeners[event] || []).map(async (listener) => {
+		await parallel((this._listeners[event] || []).map(async (listener) => {
 			await listener.handler(...args);
-		});
+		}));
 	}
 
 }
