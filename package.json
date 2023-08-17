@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/trenskow/async-event-emitter#readme",
   "devDependencies": {
-    "eslint": "^8.46.0"
+    "eslint": "^8.47.0"
   },
   "dependencies": {
-    "@trenskow/parallel": "^0.1.5"
+    "@trenskow/parallel": "^0.1.6"
   }
 }
