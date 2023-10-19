@@ -27,6 +27,6 @@
     "eslint": "^8.51.0"
   },
   "dependencies": {
-    "@trenskow/parallel": "^0.1.9"
+    "@trenskow/parallel": "^0.1.10"
   }
 }
