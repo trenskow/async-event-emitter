@@ -24,12 +24,12 @@
 	},
 	"homepage": "https://github.com/trenskow/async-event-emitter#readme",
 	"devDependencies": {
-		"@eslint/eslintrc": "^3.3.3",
+		"@eslint/eslintrc": "^3.3.5",
 		"@eslint/js": "^10.0.1",
-		"eslint": "^10.0.0",
-		"globals": "^17.3.0"
+		"eslint": "^10.1.0",
+		"globals": "^17.4.0"
 	},
 	"dependencies": {
-		"@trenskow/parallel": "^0.1.101"
+		"@trenskow/parallel": "^0.1.102"
 	}
 }
