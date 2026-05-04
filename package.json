@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/async-event-emitter",
-	"version": "0.1.107",
+	"version": "0.1.108",
 	"description": "A small library for asynchronous event emitters.",
 	"main": "index.js",
 	"type": "module",
