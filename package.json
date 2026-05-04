@@ -30,6 +30,6 @@
 		"globals": "^17.6.0"
 	},
 	"dependencies": {
-		"@trenskow/parallel": "^0.1.106"
+		"@trenskow/parallel": "^0.1.107"
 	}
 }
