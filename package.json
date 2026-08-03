@@ -27,7 +27,7 @@
 		"@eslint/eslintrc": "^3.3.6",
 		"@eslint/js": "^10.0.1",
 		"eslint": "^10.8.0",
-		"globals": "^17.8.0"
+		"globals": "^17.9.0"
 	},
 	"dependencies": {
 		"@trenskow/parallel": "^0.1.132"
